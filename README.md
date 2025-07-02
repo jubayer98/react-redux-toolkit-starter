@@ -22,6 +22,6 @@ npm run dev
 ## 📘 Walkthrough
 
 Check out the full walkthrough here:
-👉 [Redux Toolkit + TypeScript Starter Guide]([https://github.com/your-username/your-repo-name/wiki](https://blog.jubayer.me/2025/07/02/redux-toolkit-typescript-starter-guide/))
+👉 [Redux Toolkit + TypeScript Starter Guide](https://blog.jubayer.me/2025/07/02/redux-toolkit-typescript-starter-guide/)
 
 Let me know your GitHub repo URL if you'd like me to update the walkthrough link.
