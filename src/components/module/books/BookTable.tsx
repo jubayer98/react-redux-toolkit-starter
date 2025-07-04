@@ -15,7 +15,7 @@ interface BookTableProps {
     books: IBook[];
 }
 
-export default function BookCard({ books }: BookTableProps) {
+export default function BookTable({ books }: BookTableProps) {
     return (
         <Card>
             <CardContent className="p-4">
